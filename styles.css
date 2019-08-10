@@ -1,0 +1,33 @@
+#YanbaruImage {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+#introduction {
+  font-style: italic;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.information {
+  font-weight: bold;
+}
+#list{
+  list-style: none;
+}
+#frame{
+  background-color: lightgreen;
+  border: 1px black solid;
+  padding: 10px;
+  width: 300px;
+}
+
+#frame2{
+  background-color: lightyellow;
+  border: 1px black solid;
+}
+
+#summary{
+  margin-left: 10px;
+  margin-right: 10px;
+}
